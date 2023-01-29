@@ -87,7 +87,9 @@ So for future study, it would be interesting to:
 <ol>
 <li><b>Compare more transfer learning models :</b></li> Compare more transfer learning models with our best performing model.
 <li><b>Deploy the model to a mobile app: </b></li>It would even be more convenient to deploy the model to a mobile app.
-<li><b>Extend the project idea to other crops:</b></li>Extend the project idea to other crops like tomatoes, that are also seriously affected by diseases.<br>
+<li><b>Extend the project idea to other crops:</b></li>Extend the project idea to other crops like tomatoes, that are also seriously affected by diseases.
+</ol>
+<br>
 <br>
 <b>Note:</b> The trainings were done on Google collab in order to utilize the GPU on the platform.<br>
 <br>
