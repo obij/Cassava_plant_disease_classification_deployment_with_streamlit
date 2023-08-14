@@ -8,7 +8,7 @@ from tensorflow.keras.applications import ResNet50 # type: ignore
 from tensorflow.keras.applications.resnet50 import preprocess_input as resnet50_preprocess_input  # type: ignore
 
 #model = tf.keras.models.load_model("saved_model/mdl_wts.hdf5")
-model = tf.keras.models.load_model('saved_model/my_model')
+model = tf.keras.models.load_model('saved_model/my_model.h5')
 ### load file
 uploaded_file = st.file_uploader("Choose a image file", type="jpg")
 
